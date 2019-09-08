@@ -9,3 +9,7 @@ https://ucsd.edu
 
 M.S. in Earth and Environmental Engineering at Columbia Univerisity
 https://eee.columbia.edu
+
+# Research Interest
+
+Wastewater/water treatment and management 
